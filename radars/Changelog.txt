@@ -1,1 +1,8 @@
-* Added SYNC option for all players (Everyone will be able to see the flash now)
+Custom Flash Colors: Configurable flash colors for radar effects, adding more customization.
+Radar Prop: A physical radar prop that adds realism to radar interactions.
+Custom Road Signs: Added road signs with customizable options for a more immersive experience.
+Criminal Interactions: Criminals can now break radars temporarily, adding dynamic gameplay.
+Police Interactions: Police can view recent radar activity, see who was caught and at what speed, and can disable the radar until the server restarts.
+Optimized Performance: Script has been optimized to run at 0.0ms for better performance on your server.
+
+More on discord!
