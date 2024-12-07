@@ -1,1 +1,4 @@
-Check discord!
+* Fixed fine calculation function + it's has been moved to client/editable.lua
+* Average Speed Zone cameras can be disabled too now!
+* Added more default cameras at config.lua!
+* Micro fixes
