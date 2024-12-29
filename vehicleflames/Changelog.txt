@@ -1,4 +1,4 @@
-* Fixed progress bar when installing the chips
-* Added minRPM, maxRPM values to every chip (Now you can make it pops by just standing still)
-* Changed debugging logic
-* Added new version check
+* Added auto popping on downshift
+* Added always pop setting
+
+More on discord!
