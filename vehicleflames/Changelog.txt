@@ -1,4 +1,1 @@
-* Added auto popping on downshift
-* Added always pop setting
-
-More on discord!
+* Added one more method for auto pop on downshift
