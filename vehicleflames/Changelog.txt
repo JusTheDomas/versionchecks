@@ -1,2 +1,1 @@
-* Added one more method for auto pop on downshift
-(More POPS!!!)
+* Added command to disable/enable pops when using Autopops
