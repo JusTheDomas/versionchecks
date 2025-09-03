@@ -1,0 +1,2 @@
+* Added support for job-restricted vehicles in public dealerships (only players with the specified job can purchase).
+* Fixed issues with fx_manifest.
